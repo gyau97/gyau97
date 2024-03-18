@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gyau97
-- 👀 I can do: Web Dev/Game Programming
+- 👀 I can do: Web Dev/UIUX Design
 - 🌱 Currently learning: data science, app dev, maybe AI, blockchain programming...
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyau97&show_icons=true&theme=tokyonight&count_private=true)
